@@ -1,2 +1,2 @@
 # keyboard pcb log
- ny first leyboard pcb
+my first leyboard pcb
